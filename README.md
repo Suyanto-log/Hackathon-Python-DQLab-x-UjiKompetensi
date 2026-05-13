@@ -2,8 +2,8 @@
 Lomba membuat kode Python yang dilaksanakan pada Sabtu, 9 Mei 2026, mulai pukul 13.00 WIB hingga 23.00 WIB
 
 # Credits / Acknowledgment
--dqlab
--ujikompetensi
+- [dqlab](https://dqlab.id/)
+- [ujikompetensi](https://ujikompetensi.com/)
 
 Hackathon Python DQLab x UjiKompetensi DQFresh Mart Retail adalah sebuah toko retail (mini mart) dengan satu cabang saja. Selama bertahun-tahun, perusahaan sangat sukses dalam penjualan dengan produkproduk andalan tradisional. Namun dalam 6 bulan terakhir, manajemen mulai menghadapi masalah serius: total nilai penjualan terus menurun. Secara kasat mata memang jumlah pengunjung terlihat turun. Manajer toko awalnya menganggap kondisi ini hanya akibat pelemahan ekonomi. Karena itu strategi awal toko adalah: markdown
 
